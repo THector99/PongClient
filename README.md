@@ -1,4 +1,4 @@
-#Pong Client the multiplayer pong game
+# Pong Client the multiplayer pong game
 
 This is a little project that will connect multiple clients together via websockets. 
 The ultimate goal is to make python clients that use the websocket to exchange information. 
